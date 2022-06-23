@@ -16,3 +16,4 @@ or <br/>
 
 Run the following to deploy contract to Ganache. <br/>
 `truffle deploy --network ganache`
+
